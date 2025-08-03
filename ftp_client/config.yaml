@@ -1,8 +1,9 @@
 # https://developers.home-assistant.io/docs/add-ons/configuration#add-on-config
-name: Example add-on
+name: FTP Browser
 version: "1.0.0"
-slug: example
-description: Example add-on
+icon: icon.png
+slug: ftp_client
+description: Simple FTP Client to browes files on a FTP server.
 url: "https://github.com/home-assistant/addons-example/tree/main/example"
 arch:
   - armhf

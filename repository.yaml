@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: Example Home Assistant add-on repository
-url: 'https://github.com/home-assistant/addons-example'
-maintainer: Awesome Maintainer <awesome@example.com>
+name: Simple FTP Client
+url: "https://github.com/Barcley1990/home-assistant-ftp-client"
+maintainer: Tobias Nuß <tnuss90@gmail.com>
